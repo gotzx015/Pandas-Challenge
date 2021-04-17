@@ -1,0 +1,12 @@
+Two main conclusions from PyCitySchools data analysis:
+
+1. There is an inverse relationship between a school's student spending and the school's testing numbers
+
+This is evident in the dataframe where I compare a school's spending and their testing scores in math and reading.
+A school that is in the "<$584" range has an overall percentage passing of 90.37% compared to 53.53% for schools in the
+top spending range. This must be due to more spending at schools with students who require more support.
+
+2. Charter schools are more successful than district schools
+
+This is evident in the last dataframe where I compare a school's type to its testing scores in math and reading.
+A charter school has an overall percentage passing of 90.43% compared to 53.67% for district schools. 
